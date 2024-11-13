@@ -1,0 +1,2 @@
+This repository is a sandbox to learn how to GitHub Actions with Docker containers by
+following [this tutorial](https://docs.github.com/en/actions/sharing-automations/creating-actions/creating-a-docker-container-action)
